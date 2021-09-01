@@ -1,0 +1,7 @@
+{
+  id: 'testing',
+  name: 'Testing',
+  src: 'src',
+  description: 'A test!',
+  version: '1.0.0'
+}
